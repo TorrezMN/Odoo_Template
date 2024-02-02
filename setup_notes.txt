@@ -1,0 +1,11 @@
+
+# When setting initial confit the following must be added to odoo.conf file.
+
+filter_db = db_name
+
+
+
+- db_name must be equal to the database name setted in the gui.
+
+
+
